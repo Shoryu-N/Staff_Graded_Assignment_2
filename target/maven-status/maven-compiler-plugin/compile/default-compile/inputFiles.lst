@@ -1,0 +1,10 @@
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/DataInitializer.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/LibraryApplication.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/controller/AuthorController.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/controller/BookController.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/entity/Author.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/entity/Book.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/repository/AuthorRepository.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/repository/BookRepository.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/service/AuthorService.java
+/Users/shoryu/Downloads/library-math-project/src/main/java/com/example/library/service/BookService.java
